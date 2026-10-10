@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Manifest AutoUpdate="2" Build="217" NeedVerification="0" Pure="1" VersionUnixTime="1790582123" VersionNum=""
+ InstallDate="1774607109" PatchInstallDate="1790589467" InstalledSize="0" ExistingClientSize="7150912602"
+ TimeStamp="1791548443" RunCount="1197" ClientBits="67664" Tamper="49B1019962854541FCDE4CE95545B298">
+	<Misc InjectMracDll="1" SZPERSIDPARAM="; " SZTOKENPARAM=";" MyComGameAccountParam="; " MyComCodeParam=";"
+	 EXEPARAMSTAIL=";SnailBoxEnd" CrashPaths="%GAME_INSTALLED_PATH%\5street" CrashFilters="CrashDump.dmp;system.log"
+	 ACLAUNCHER="5street\mraclaunchapi.dll" ExeFileName="5street\Launch.exe" ExeFileName64bit=""
+	 ExeParams="SnailBoxBegin;#Mail.Ru" ExeParams64bit="" GAMEID="0.56"/>
+	<RunCheck>
+		<Item Kind="Hash" Size="1060864" MD5="83405BF28342349351F1D215D7D370B7" Name="5street\ACE.dll"/>
+		<Item Kind="Hash" Size="196608" MD5="8AE79DE4A4D805595FEDDE1305F4C43C" Name="5street\AutoRun.exe"/>
+		<Item Kind="Hash" Size="351120" MD5="52BB2A81C07FFF1DCD84A432D8C569EB" Name="5street\BugReport.exe"/>
+		<Item Kind="Hash" Size="122880" MD5="5C053D326DBDB70FE4EAEE6B80ADDF14" Name="5street\Console.dll"/>
+		<Item Kind="Hash" Size="474120" MD5="260C3ACC5D46DA4598263F37A9C2B1AD" Name="5street\Core.dll"/>
+		<Item Kind="Hash" Size="819200" MD5="7FD4C1BC5F0410D796EDBEC8DD67AD3B" Name="5street\cximage.dll"/>
+		<Item Kind="Hash" Size="640000" MD5="28D3E1F32742CA36974120B49E2B9DC2" Name="5street\dbghelp.dll"/>
+		<Item Kind="Hash" Size="174824" MD5="B9D07EFB65A3C23432891711A872202F" Name="5street\Dll\ActiveEffect.dll"/>
+		<Item Kind="Hash" Size="233572" MD5="892453A08BEE686A5EE639CF0A7504A4" Name="5street\Dll\Animation.dll"/>
+		<Item Kind="Hash" Size="20590" MD5="2F2A8AEA70C30E557D2D4B65338F41AE" Name="5street\Dll\AsyncResourceLoader.dll"/>
+		<Item Kind="Hash" Size="733285" MD5="E8F196FD20751185D79E5A8F0AD088C2" Name="5street\Dll\ClientCore.dll"/>
+		<Item Kind="Hash" Size="20578" MD5="0425CDFCA2484251778F174F8256F88F" Name="5street\Dll\COLLIDE.dll"/>
+		<Item Kind="Hash" Size="1283824" MD5="3E367F32ADDFB0D235B206134B4B139E" Name="5street\Dll\Dance3D.dll"/>
+		<Item Kind="Hash" Size="14855024" MD5="65ACC9973D9DD6903FD5748CB5F1D0C5" Name="5street\Dll\DanceGame.dll"/>
+		<Item Kind="Hash" Size="736088" MD5="7DCA7A5F74D860E4CDBD33106DB2147B" Name="5street\Dll\DX8RENDER.dll"/>
+		<Item Kind="Hash" Size="391888" MD5="1BF00EE5B44A6AB1DC3D6C8C2BC98F27" Name="5street\Dll\GEOMETRY.dll"/>
+		<Item Kind="Hash" Size="170624" MD5="4985ADE4DD678A0C2E4AA92B2C69F7A4" Name="5street\Dll\MODEL.dll"/>
+		<Item Kind="Hash" Size="155751" MD5="73160EF8902B603C5BBC04C10C117CF5" Name="5street\Dll\MotiveEffect.dll"/>
+		<Item Kind="Hash" Size="73827" MD5="32DAAFE59415D360F557774C62A7CD38" Name="5street\Dll\PARTICLES.dll"/>
+		<Item Kind="Hash" Size="36963" MD5="F283020105266482C2516286417A1B77" Name="5street\Dll\SaberArc.dll"/>
+		<Item Kind="Hash" Size="84992" MD5="B395229283261E35782FD553690F67E8" Name="5street\Dll\ShaderDraw.dll"/>
+		<Item Kind="Hash" Size="117448" MD5="9116B56E6CE023D25F7C49E4BCA4C450" Name="5street\Dll\Shadow.dll"/>
+		<Item Kind="Hash" Size="41055" MD5="E6C662C14F703807375DC71D1914C6B2" Name="5street\Dll\SOUND.dll"/>
+		<Item Kind="Hash" Size="69735" MD5="E561723179DAE6046754A0DC52F6D442" Name="5street\Dll\SoundService.dll"/>
+		<Item Kind="Hash" Size="2154496" MD5="970667F95C7FC3A78C00EC554B537432" Name="5street\Dll\SwfUI.dll"/>
+		<Item Kind="Hash" Size="449224" MD5="F11C91E96B369F7F9D6A1D838EACF5C8" Name="5street\Dll\ui.dll"/>
+		<Item Kind="Hash" Size="151650" MD5="57380C7704F70C90F402C1C0ADB8AF63" Name="5street\Dll\WEATHER.dll"/>
+		<Item Kind="Hash" Size="233568" MD5="431B077A8BCC52BC7F7DA1EA2D5C65D5" Name="5street\Dll\XMesh.dll"/>
+		<Item Kind="Hash" Size="57438" MD5="83D4016AD42ADBECAD98B47FAB4CA3E3" Name="5street\Dll\XML.dll"/>
+		<Item Kind="Hash" Size="1229472" MD5="33922E0D0FB290FF350E63F25E3F0937" Name="5street\Film.exe.exe"/>
+		<Item Kind="Hash" Size="17408" MD5="6761E63A1E27223D3FFC08541A5D3877" Name="5street\Frequency.dll"/>
+		<Item Kind="Hash" Size="1724416" MD5="E08307C7E813517470D1F9D705A7D5B2" Name="5street\GdiPlus.dll"/>
+		<Item Kind="Hash" Size="1130496" MD5="9FB554BB02250D380EC8CDCBDF22C853" Name="5street\IAudio.dll"/>
+		<Item Kind="Hash" Size="237568" MD5="CE275838C19C1BE84BA20CBB1A226823" Name="5street\iLBC.dll"/>
+		<Item Kind="Hash" Size="282624" MD5="26CB428929E4F07706F4A5B6471E27A6" Name="5street\InvokeWebService.dll"/>
+		<Item Kind="Hash" Size="376832" MD5="39C58ACD2714213DD6E7DD58D70759A9" Name="5street\IVideo.dll"/>
+		<Item Kind="Hash" Size="111368" MD5="1C60B89AE74F38754DFEE3FFD321AC29" Name="5street\Launch.exe"/>
+		<Item Kind="Hash" Size="499712" MD5="561FA2ABB31DFA8FAB762145F81667C2" Name="5street\msvcp71.dll"/>
+		<Item Kind="Hash" Size="348160" MD5="86F1895AE8C5E8B17D99ECE768A70732" Name="5street\msvcr71.dll"/>
+		<Item Kind="Hash" Size="19456" MD5="0D4EECE1EC4C7545B1403F51C2BC7D6F" Name="5street\nat_peer.dll"/>
+		<Item Kind="Hash" Size="1056768" MD5="3A4EE4373DFD1E3B739A43AE790FF923" Name="5street\NxCli.dll"/>
+		<Item Kind="Hash" Size="36864" MD5="0602F672BA595716E64EC4040E6DE376" Name="5street\ogg.dll"/>
+		<Item Kind="Hash" Size="184320" MD5="4E16555A78784FDEC016581BF00762B4" Name="5street\peer_net.dll"/>
+		<Item Kind="Hash" Size="192512" MD5="A4BAD8373657F5AFB1A7FCA51FF95E2E" Name="5street\PlugDll.dll"/>
+		<Item Kind="Hash" Size="180224" MD5="F22536C411E808DFFF04AC947AEA63E7" Name="5street\RTP.dll"/>
+		<Item Kind="Hash" Size="94208" MD5="64F93CCAF424484107505EF34BA05AE8" Name="5street\UpnpDll.dll"/>
+		<Item Kind="Hash" Size="204800" MD5="E598BC3B3CC77F9B78A0E6A1C6CA8501" Name="5street\VideoTransferClient.dll"/>
+		<Item Kind="Hash" Size="1060864" MD5="2840F08DD9753A5B13C60D6D1C165C9A" Name="5street\vorbis.dll"/>
+		<Item Kind="Hash" Size="65536" MD5="2B7B803311D2B228F065C45D13E1AEB2" Name="5street\vorbisfile.dll"/>
+		<Item Kind="Hash" Size="606208" MD5="7A426409A6D40DA20D47824381787221" Name="5street\xlUI.dll"/>
+		<Item Kind="Hash" Size="1017584" MD5="A62F562F1F7CB1FEA25088E769010119" Name="5street.exe"/>
+		<Item Kind="Hash" Size="32976" MD5="62A243B60BF6BEE819F93D63F8DE0688" Name="launcher.exe"/>
+		<Item Kind="Hash" Size="229376" MD5="8B245125252F3B46144A1338CC27893D" Name="OptimizePkgSys.exe"/>
+		<Item Kind="Hash" Size="370384" MD5="A41D9EA0D5242AD3E588B136AF3C2C45" Name="PackageSys.dll"/>
+		<Item Kind="Hash" Size="494208" MD5="92EBB89928969DC789CFC29F368B2125" Name="PatchBase.dll"/>
+		<Item Kind="Hash" Size="1017584" MD5="A62F562F1F7CB1FEA25088E769010119" Name="UpdatePatch\5street.exe"/>
+		<Item Kind="Hash" Size="229376" MD5="8B245125252F3B46144A1338CC27893D" Name="UpdatePatch\OptimizePkgSys.exe"/>
+		<Item Kind="Hash" Size="370384" MD5="A41D9EA0D5242AD3E588B136AF3C2C45" Name="UpdatePatch\PackageSys.dll"/>
+		<Item Kind="Hash" Size="494208" MD5="92EBB89928969DC789CFC29F368B2125" Name="UpdatePatch\PatchBase.dll"/>
+		<Item Kind="Hash" Size="86556720" MD5="356E9AFD9E4A0EFCE91E89DBCF24D54F" Name="5street\mrac.dll"/>
+		<Item Kind="Hash" Size="189" MD5="FC9AF46ADA974C4C4EC7712A003A6743" Name="5street\mrac.cfg"/>
+		<Item Kind="Hash" Size="828" MD5="F5A750D15F3FB6132080631547842B2E" Name="5street\mrachash.bin"/>
+		<Item Kind="Hash" Size="34631672" MD5="C27960464D7CE40A01926E5A6EE559CF" Name="5street\mracinstall64.exe"/>
+		<Item Kind="Hash" Size="23521272" MD5="4C42F35BDEA6F7200FFF3A8051E9A80D" Name="5street\mracinstall.exe"/>
+		<Item Kind="Hash" Size="931912" MD5="514C32F057B78FEF0C0D49CB8D9089FE" Name="5street\mraclaunchapi.dll"/>
+	</RunCheck>
+</Manifest>

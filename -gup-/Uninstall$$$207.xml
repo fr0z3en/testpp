@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Uninstall GroupName="Mail.Ru\Пара Па">
+	<Registry/>
+	<Icons>
+		<Item Name="{userdesktop}\{GameTitle}" Filename="vkplay://play/{GameId}" IconFilename="{app}\5street\Launch.exe"/>
+		<Item Name="{group}\{GameTitle}" Filename="vkplay://play/{GameId}" IconFilename="{app}\5street\Launch.exe"/>
+	</Icons>
+	<SubFiles>
+		<Item Name="C:\Users\provorova\Desktop\Пара Па Город танцев.lnk"/>
+		<Item Name="C:\Users\provorova\Desktop\Пара Па Город танцев.url"/>
+		<Item
+		 Name="C:\Users\provorova\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Mail.Ru\Пара Па\Пара Па Город танцев.lnk"/>
+		<Item
+		 Name="C:\Users\provorova\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Mail.Ru\Пара Па\Пара Па Город танцев.url"/>
+	</SubFiles>
+</Uninstall>

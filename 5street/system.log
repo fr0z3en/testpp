@@ -1,0 +1,334 @@
+Scanning dll\
+Loading modules...
+20:20:43:253:  	Module's name: dll\ActiveEffect.dll.
+20:20:43:255:  	Module's name: dll\Animation.dll.
+20:20:43:256:  	Module's name: dll\AsyncResourceLoader.dll.
+20:20:43:257:  	Module's name: dll\ClientCore.dll.
+20:20:43:259:  	Module's name: dll\COLLIDE.dll.
+20:20:43:260:  	Module's name: dll\Dance3D.dll.
+20:20:43:262:  	Module's name: dll\DanceGame.dll.
+20:20:43:278:  	Module's name: dll\DX8RENDER.dll.
+20:20:43:281:  	Module's name: dll\GEOMETRY.dll.
+20:20:43:283:  	Module's name: dll\MODEL.dll.
+20:20:43:286:  	Module's name: dll\MotiveEffect.dll.
+20:20:43:287:  	Module's name: dll\PARTICLES.dll.
+20:20:43:288:  	Module's name: dll\SaberArc.dll.
+20:20:43:289:  	Module's name: dll\ShaderDraw.dll.
+20:20:43:290:  	Module's name: dll\Shadow.dll.
+20:20:43:291:  	Module's name: dll\SOUND.dll.
+20:20:43:292:  	Module's name: dll\SoundService.dll.
+20:20:43:297:  	Module's name: dll\SwfUI.dll.
+20:20:43:300:  	Module's name: dll\ui.dll.
+20:20:43:302:  	Module's name: dll\WEATHER.dll.
+20:20:43:303:  	Module's name: dll\XMesh.dll.
+20:20:43:304:  	Module's name: dll\XML.dll.
+Loaded 22
+Reset...
+Initializing CORE...
+Creating atoms space: 128
+Done
+Initializing Complete
+20:20:44:272:  	Initializing DirectX 8
+20:20:44:590:  	[Warning]: Find similar technique name: coronas
+20:20:44:601:  	Techniques: 42 shaders compiled.
+20:20:44:601:  	Techniques: 126 techniques compiled.
+20:20:44:602:  	Techniques: compiled by 69855980 ticks.
+20:20:44:606:  	Successful to create font [ST12]
+20:20:46:055:  	Load Text: 125981 text compiled. 1390 ms
+20:20:46:297:  	Warning: Failed to load special effect data.
+20:20:47:237:  	Successful to create font [ST_NAMECOLOR_1]
+20:20:47:241:  	Successful to create font [ST_NAMECOLOR_2]
+20:20:47:266:  	Successful to create font [ST_NAMECOLOR_3]
+20:20:47:270:  	Successful to create font [ST_NAMECOLOR_4]
+20:20:47:273:  	Successful to create font [ST_NAMECOLOR_5]
+20:20:47:277:  	Successful to create font [ST_NAMECOLOR_6]
+20:20:47:281:  	Successful to create font [ST_NAMECOLOR_7]
+20:20:47:284:  	Successful to create font [ST_NAMECOLOR_8]
+20:20:47:295:  	Successful to create font [TITLEBOXMALE]
+20:20:47:300:  	Successful to create font [TITLEBOXFEMALE]
+20:20:47:304:  	Successful to create font [FZCYJT14]
+20:20:47:308:  	Successful to create font [WDPOP24_LINE_REGGAE]
+20:20:47:312:  	Successful to create font [FONT_LEVEL_1]
+20:20:47:316:  	Successful to create font [FONT_LEVEL_2]
+20:20:47:320:  	Successful to create font [FONT_LEVEL_3]
+20:20:47:324:  	Successful to create font [FONT_LEVEL_4]
+20:20:47:328:  	Successful to create font [FONT_LEVEL_5]
+20:20:47:332:  	Successful to create font [FONT_LEVEL_6]
+20:20:47:357:  	Successful to create font [FONT_LEVEL_7]
+20:20:47:360:  	Successful to create font [FONT_LEVEL_8]
+20:20:47:364:  	Successful to create font [FONT_LEVEL_9]
+20:20:47:368:  	Successful to create font [FONT_LEVEL_10]
+20:20:47:371:  	Successful to create font [FONT_LEVEL_11]
+20:20:47:375:  	Successful to create font [FONT_LEVEL_12]
+20:20:47:379:  	Successful to create font [FONT_LEVEL_13]
+20:20:47:383:  	Successful to create font [FONT_LEVEL_14]
+20:20:47:387:  	Successful to create font [FONT_LEVEL_15]
+20:20:47:391:  	Successful to create font [FONT_LEVEL_20]
+20:20:47:395:  	Successful to create font [FONT_LEVEL_21]
+20:20:47:399:  	Successful to create font [FONT_LEVEL_22]
+20:20:47:403:  	Successful to create font [FONT_LEVEL_97]
+20:20:47:447:  	Successful to create font [FONT_LEVEL_98]
+20:20:47:451:  	Successful to create font [FONT_LEVEL_99]
+20:20:47:455:  	Successful to create font [GUILD_WHITE]
+20:20:47:460:  	Successful to create font [GUILD_YELLOW]
+20:20:47:464:  	Successful to create font [GUILD_GREEN]
+20:20:47:468:  	Successful to create font [GUILD_RED]
+20:20:47:472:  	Successful to create font [GUILD_PURPLE]
+20:20:47:476:  	Successful to create font [GUILD_LIGHTBLUE]
+20:20:47:480:  	Successful to create font [GUILD_NINE]
+20:20:47:483:  	Successful to create font [GUILD_GRASSGREEN]
+20:20:47:488:  	Successful to create font [GUILD_FINAL]
+20:20:47:492:  	Successful to create font [GUILD_GOLDEN]
+20:20:50:221:  	Successful to create font [WDPOP16_BT_POWDER]
+20:20:50:232:  	Successful to create font [GAMEOPTMUSICOPT16_BLUEMORE]
+20:20:50:238:  	Successful to create font [WDPOP12_BT_PURPLE]
+20:20:50:250:  	Successful to create font [WDPOP24_LINE_LOCKING]
+20:20:50:309:  	Successful to create font [ST17]
+20:20:50:313:  	Successful to create font [ST16]
+20:20:50:322:  	Successful to create font [GAMEREADYNOW_3]
+20:20:50:327:  	Successful to create font [NODDLEBIG_LINE_YELLOW]
+20:20:50:330:  	Successful to create font [WDPOP16_BT_BLUE]
+20:20:50:374:  	Successful to create font [ST18]
+20:20:50:381:  	Successful to create font [WDPOP12_LINE_PURPLE]
+20:20:50:388:  	Successful to create font [ST14]
+20:20:50:432:  	Successful to create font [WDPOP16_LINE_BLUE]
+20:20:50:437:  	Successful to create font [GAMEREADYNOW_5]
+20:20:50:555:  	Successful to create font [FZCYJT12]
+20:20:50:588:  	Successful to create font [WDPOP10_LINE_BLUE]
+20:20:50:611:  	Successful to create font [WDPOP12_LINE_BLUE]
+20:20:50:636:  	Successful to create font [ST10]
+20:20:50:679:  	Successful to create font [GAMEOPTTITLE1_BLUE]
+20:20:50:684:  	Successful to create font [GAMEOPTTITLE1_FYELLOW]
+20:20:50:706:  	Successful to create font [GAMEOPTMUSICOPT_FYELLOW]
+20:20:50:711:  	Successful to create font [GAMEOPTMUSICOPT_RED]
+20:20:50:717:  	Successful to create font [LABEL_SMALL]
+20:20:50:721:  	Successful to create font [GAMEOPT_GREEN]
+20:20:50:726:  	Successful to create font [GAMEOPTMUSICOPT_ORANGE]
+20:20:50:731:  	Successful to create font [WDPOP16_LINE_YZISE]
+20:20:50:736:  	Successful to create font [FZCYJT16]
+20:20:50:741:  	Successful to create font [WDPOP24_LINE_BREAKING]
+20:20:50:746:  	Successful to create font [WDPOP16_LINE_BLACK]
+20:20:50:753:  	Successful to create font [WDPOP16_LINE_YELLOW]
+20:20:50:843:  	Successful to create font [GAMEOPTTITLE1_YELLOW]
+20:20:50:847:  	Successful to create font [WDPOP12_LINE_REGGAE]
+20:20:50:900:  	Successful to create font [FZCYJT20]
+20:20:50:977:  	Successful to create font [GAMEREADYNOW_2]
+20:20:50:999:  	Successful to create font [ST_DECORATION1]
+20:20:51:003:  	Successful to create font [ST_HONORCITIZEN]
+20:20:51:022:  	Successful to create font [GAMEREADYNOW_1]
+20:20:51:030:  	Successful to create font [ST31]
+20:20:51:044:  	Successful to create font [WDPOP24_LINE_FBLUE]
+20:20:51:101:  	Successful to create font [WDPOP20_LINE_FBLUE]
+20:20:51:118:  	Successful to create font [LABATEXT8]
+20:20:51:127:  	Successful to create font [ST_HONORCITIZEN_2]
+20:20:51:133:  	Successful to create font [WDPOP10_LINE_GOLDEN_1]
+20:20:51:140:  	Successful to create font [WDPOP12_LINE_PINK]
+20:20:51:146:  	Successful to create font [WDPOP16_LINE_GREEN_1]
+20:20:51:158:  	Successful to create font [WDPOP16_LINE_ZISE]
+20:20:51:172:  	Successful to create font [LABATEXT1]
+20:20:51:179:  	Successful to create font [ST22]
+20:20:51:270:  	Successful to create font [FZCYJT22]
+20:20:51:354:  	Successful to create font [WDPOP16_LINE_GREEN]
+20:20:51:393:  	Successful to create font [GAMEOPTTITLE1_FBLUE]
+20:20:51:411:  	Successful to create font [WDPOP16_BT_GREEN]
+20:20:51:417:  	Successful to create font [ST_GONGGAO]
+20:20:51:426:  	Successful to create font [ST_HONORCITIZEN_4]
+20:20:51:500:  	Successful to create font [GAMEREADYNOW_4]
+20:20:51:529:  	Successful to create font [WDPOP24_LINE_POPIN]
+20:20:51:553:  	Successful to create font [WDPOP16_LINE_RED]
+20:20:51:606:  	Successful to create font [ST11]
+20:20:51:617:  	Successful to create font [ST_HONORCITIZEN_3]
+20:20:51:642:  	Successful to create font [ST_7DAYGREEN]
+20:20:51:724:  	Successful to create font [GAMEOPTTITLE2_FBLUE]
+20:20:51:792:  	Successful to create font [GAMEOPTGRAPHICOPT_BLUE]
+20:20:51:812:  	Successful to create font [MAN_LINE]
+20:20:52:460:  	Successful to create font [NODDLE_LINE_YELLOW]
+20:20:52:478:  	Successful to create font [FZCYJT22_MIAOBIAN]
+20:20:52:703:  	Successful to create font [WDPOP10_LINE_GOLDEN_2]
+20:20:52:748:  	Warning : Unable to create window logic 'ui_ManorPartyBook' for 'Wnd_Booking'
+20:20:52:790:  	Successful to create font [WDPOP20_MP3]
+20:20:52:832:  	Successful to create font [ST30]
+20:20:52:962:  	Successful to create font [GAMEOPTMUSICOPT_REDMORE]
+20:20:52:969:  	Successful to create font [WDPOP14_BT_POWDER]
+20:20:52:990:  	Successful to create font [WDPOP16_BT_PURPLE]
+20:20:53:004:  	Successful to create font [WDPOP16_LINE_REGGAE]
+20:20:53:144:  	Successful to create font [ST_DECORATION2]
+20:20:53:365:  	Resource/ini/HotDance/Interface/SXHonour.ini KeyRound380 Not Found!
+20:20:53:388:  	Successful to create font [WDPOP10_LINE_GOLDEN]
+20:20:53:395:  	Successful to create font [WDPOP10_LINE_YELLOW]
+20:20:57:247:  	Successful to create font [MISSIONSTATUS_GREENMORE]
+20:20:57:253:  	Successful to create font [MISSIONSTATUS_ORANGEMORE]
+20:20:57:265:  	Successful to create font [WDPOP12_LINE_LIGHTGREEN]
+20:20:57:272:  	Successful to create font [WDPOP12_LINE_LIGHTPINK]
+20:20:57:301:  	Successful to create font [STHUAHAI]
+20:20:57:469:  	Warning : Unable to create window logic 'PlayComBattle' for 'ZWnd_Xuandou'
+20:20:57:469:  	Warning : Unable to create window logic 'PlayComBattle' for 'ZWnd_SkillBK'
+20:20:57:547:  	Successful to create font [GAMEOPTTITLE3_FYELLOW]
+20:20:57:585:  	Successful to create font [LABEL_FRIST]
+20:20:57:713:  	Successful to create font [ST34]
+20:20:57:736:  	Successful to create font [WDPOP16_LINE_BLUE1]
+20:20:57:743:  	Successful to create font [ST33]
+20:20:57:747:  	Successful to create font [ST_7DAYGRAY]
+20:20:57:792:  	Successful to create font [SAY_LINE_WHITE]
+20:20:57:830:  	Successful to create font [GAMEOPTGRAPHICOPT_FFYELLOW]
+20:20:57:853:  	Successful to create font [WDPOP24_LINE_REGGAER]
+20:20:57:938:  	Successful to create font [MSG_9LOTTERYINTRO]
+20:20:57:944:  	Successful to create font [MSG_LEVEL_REWARD2]
+20:20:57:950:  	Successful to create font [WDPOP16_LINE_MINIYELLOW]
+20:20:57:964:  	Successful to create font [MSG_LEVEL_REWARD4]
+20:20:57:972:  	Successful to create font [MSG_LEVEL_REWARD]
+20:20:57:986:  	Successful to create font [WDPOP12_BT_GREEN]
+20:20:58:076:  	Successful to create font [MARRIAGETEXT]
+20:20:58:156:  	Successful to create font [ST_7DAYBLUE]
+20:20:58:212:  	Successful to create font [SINGLEWIN]
+20:20:58:248:  	Successful to create font [FONT_LEVEL_31]
+20:20:58:310:  	Successful to create font [WDPOP10_LINE_GOLDEN_3]
+20:20:58:438:  	Successful to create font [ST_WEDDING1]
+20:20:58:443:  	Successful to create font [ST_WEDDING3]
+20:20:58:449:  	Successful to create font [ST_WEDDING2]
+20:20:58:600:  	ui_SingleClothingMain::OnCreate
+20:20:59:046:  	Warning : Unable to create window logic 'ui_PlayerHelpTipsDetailPlane' for 'ZWnd_tishi'
+20:20:59:057:  	Successful to create font [WDPOP24_LINE_GEEN]
+20:20:59:114:  	Successful to create font [ST_GONGGAOFEN]
+20:20:59:501:  	Successful to create font [WDPOP12_LINE_GOLDEN_1]
+20:21:00:126:  	Successful to create font [FONT_BABY_1]
+20:21:00:378:  	Successful to create font [HELP_NOW]
+20:21:00:772:  	Successful to create font [WDPOP10_LINE_ORANGE]
+20:21:00:813:  	Successful to create font [ST26]
+20:21:01:471:  	Successful to create font [WDPOP10_LINE_GOLDEN_6]
+20:21:01:878:  	Successful to create font [GAMEOPTMUSICOPT_FFYELLOW]
+20:21:02:169:  	Successful to create font [LEFTTIME]
+20:21:03:420:  	Successful to create font [GAMEOPTTITLE1_BIGYELLOW]
+20:21:03:555:  	[error]NewBigServer can not find!!!
+20:21:06:200:  	Successful to create font [GAMEOPTMUSICOPT16_REDMORE]
+20:21:06:209:  	Successful to create font [ST32]
+20:21:06:274:  	(DX8Render)Warning : Can't create texture with null name
+20:21:06:750:  	Successful to create font [GAMEOPTGRAPHICOPT_FBLUE]
+20:21:06:757:  	Successful to create font [TOPTEN_LINE_YELLOW]
+20:21:07:039:  	Successful to create font [GAMEOPTTITLE1_LIGHTBLUE]
+20:21:07:481:  	Successful to create font [LB_ARENAEXCHANGEREQUEST]
+20:21:07:516:  	InitInterfaceNameInfo[interface_scene_npc_700] error:can't find logic ==>
+20:21:07:620:  	Successful to create font [WOMAN_LINE]
+20:21:07:649:  	Successful to create font [NODDLE_LINE_WHITE]
+20:21:07:836:  	Successful to create font [WDPOP24_LINE_HIPHOP]
+20:21:08:739:  	Successful to create font [FONT_BOARD_PURPLE]
+20:21:08:744:  	Successful to create font [FONT_BOARD_PINK]
+20:21:08:746:  	liumf----------------->SavePlatformLoginInfo start
+20:21:08:746:  	[ChoiceServer] Parse command line start: nArgNum=5
+20:21:08:746:  	C:\VK Play\Ïàðà Ïà - Ãîðîä òàíöåâ\5street\Launch.exe
+20:21:08:746:  	SnailBoxBegin;#Mail.Ru
+20:21:08:747:  	;
+20:21:08:747:  	128600
+20:21:08:747:  	;5835ec5486327ad2beddbe03701d2759bc2ad43237363830;SnailBoxEnd
+20:21:08:747:  	[ChoiceServer] Parse command line end.
+20:21:08:747:  	liumf----------------->SavePlatformLoginInfo end
+20:21:08:747:  	liumf-------->IsValidIniVer
+20:21:08:748:  	liumf-------->bRight=1
+20:21:09:428:  	SoundService: Music volume is too high! (setting to maximum)
+20:21:18:939:  	RUS_PLATMFORM_Send m_nConnetState=0, strAccount=—–j•®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\ÕÏ.GÄñ;ZÌÊi–›9Tšd–œkVÁœ>RÁÊ>R•k”Ên, strValidateString=ÕÏ.GÄñ;ZÌÊi–›9Tšd–œkVÁœ>RÁÊ>R•k”Ên
+20:21:30:942:  	Successful to create font [WDPOP16_LINE_ZISE1]
+20:21:31:945:  	RUS_PLATMFORM_Send m_nConnetState=1, strAccount=—–j•®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\7¥®\ìàr÷™d–šm, strValidateString=ìàr÷™d–šm
+20:21:34:494:  	[TRACE]_LUA_INFO: lua script machine started......
+20:21:36:023:  	Successful to create font [TITLEBOXNPC]
+20:21:38:800:  	[TRACE]_LUA_ERROR: SceneImpl.lua/OnSceneLoaded: current_scene = unknown.
+20:21:39:150:  	Successful to create font [LABATEXT3]
+20:21:39:153:  	Warning : Release the texture too much times ==> HOTDANCE\COMMON\FLAG\LOADINGBACK2.DDS
+20:22:00:465:  	Warning : Failed to load texture ==> box_07LightingMap.dds.box_07 (on model: HotDance\30111\dancehall)
+20:22:01:785:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+20:22:01:823:  	(DX8Render)Warning : Can't create texture with null name
+20:22:02:172:  	Successful to create font [FONT_LEVEL_16]
+20:22:24:463:  	Warning : Failed to load texture ==> HotDance\Common\object\actor\11head\0\2293_01L.dds (on model: HotDance\Common\object\actor\11head\2293)
+20:26:13:068:  	Successful to create font [LABATEXT6]
+21:17:24:849:  	Successful to create font [LABATEXT4]
+21:19:52:486:  	Successful to create font [LABATEXT2]
+21:47:06:190:  	Successful to create font [LABATEXT7]
+01:24:49:236:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+01:24:49:382:  	Can't create sea system for game!
+01:24:50:302:  	Warning : Failed to load texture ==> lvdeng.TGA (on model: HotDance\31403\uv17)
+01:24:51:327:  	Warning : Failed to load texture ==> 09waijing3.TGA (on model: HotDance\31403\jianzhu)
+01:24:52:276:  	Warning : Failed to load texture ==> cloth_pattern_csymix002_diff.dds (on model: HotDance\31403\2014ZFG01)
+01:24:52:444:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+01:24:52:524:  	Can't create sea system for game!
+01:24:53:066:  	Warning : Failed to load texture ==> lvdeng.TGA (on model: HotDance\31403\uv17)
+01:24:53:626:  	Warning : Failed to load texture ==> 09waijing3.TGA (on model: HotDance\31403\jianzhu)
+01:24:54:380:  	Warning : Failed to load texture ==> cloth_pattern_csymix002_diff.dds (on model: HotDance\31403\2014ZFG01)
+01:25:22:193:  	[FindpathError] GetPathPoint Error!
+01:26:44:666:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+01:26:44:784:  	Can't create sea system for game!
+01:26:45:694:  	Warning : Failed to load texture ==> lvdeng.TGA (on model: HotDance\31403\uv17)
+01:26:46:625:  	Warning : Failed to load texture ==> 09waijing3.TGA (on model: HotDance\31403\jianzhu)
+01:26:47:306:  	Warning : Failed to load texture ==> cloth_pattern_csymix002_diff.dds (on model: HotDance\31403\2014ZFG01)
+Unloading
+01:29:26:752:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+01:29:26:895:  	Can't create sea system for game!
+01:29:27:725:  	Warning : Failed to load texture ==> lvdeng.TGA (on model: HotDance\31403\uv17)
+Unloading
+01:29:28:379:  	Warning : Failed to load texture ==> 09waijing3.TGA (on model: HotDance\31403\jianzhu)
+01:29:28:855:  	Warning : Failed to load texture ==> cloth_pattern_csymix002_diff.dds (on model: HotDance\31403\2014ZFG01)
+01:30:09:667:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+01:30:09:820:  	Can't create sea system for game!
+01:30:11:169:  	Warning : Failed to load texture ==> lvdeng.TGA (on model: HotDance\31403\uv17)
+01:30:11:988:  	Warning : Failed to load texture ==> 09waijing3.TGA (on model: HotDance\31403\jianzhu)
+01:30:12:712:  	Warning : Failed to load texture ==> cloth_pattern_csymix002_diff.dds (on model: HotDance\31403\2014ZFG01)
+01:30:31:768:  	Warning : Can't create Draw ==> CardAnimation0
+01:30:31:789:  	Warning : Can't create Draw ==> CardAnimation0
+01:30:32:472:  	Warning : Can't create Draw ==> CardAnimation0
+Unloading
+01:32:30:956:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+01:32:31:060:  	Can't create sea system for game!
+01:32:31:780:  	Warning : Failed to load texture ==> lvdeng.TGA (on model: HotDance\31403\uv17)
+01:32:32:227:  	Warning : Failed to load texture ==> 09waijing3.TGA (on model: HotDance\31403\jianzhu)
+01:32:32:716:  	Warning : Failed to load texture ==> cloth_pattern_csymix002_diff.dds (on model: HotDance\31403\2014ZFG01)
+01:33:07:835:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+01:33:07:941:  	Can't create sea system for game!
+01:33:08:593:  	Warning : Failed to load texture ==> lvdeng.TGA (on model: HotDance\31403\uv17)
+01:33:09:250:  	Warning : Failed to load texture ==> 09waijing3.TGA (on model: HotDance\31403\jianzhu)
+01:33:09:921:  	Warning : Failed to load texture ==> cloth_pattern_csymix002_diff.dds (on model: HotDance\31403\2014ZFG01)
+Unloading
+Unloading
+01:36:00:982:  	Warning : Can't create Draw ==> CardAnimation0
+01:36:58:223:  	Warning : Can't create Draw ==> CardAnimation0
+Unloading
+01:39:47:749:  	Warning : Failed to load texture ==> wjzchqb04.bmp (on model: HotDance\Common\object\31411\40138)
+01:39:47:750:  	Warning : Failed to load texture ==> Box50LightingMap.bmp (on model: HotDance\Common\object\31411\40138)
+01:39:47:750:  	Warning : Failed to load texture ==> wjzchqb04.bmp (on model: HotDance\Common\object\31411\40138)
+01:39:47:751:  	Warning : Failed to load texture ==> Box50LightingMap.bmp (on model: HotDance\Common\object\31411\40138)
+01:39:47:752:  	Warning : Failed to load texture ==> wjzchqb04.bmp (on model: HotDance\Common\object\31411\40138)
+01:39:47:752:  	Warning : Failed to load texture ==> Box50LightingMap.bmp (on model: HotDance\Common\object\31411\40138)
+01:40:54:480:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+01:40:54:694:  	Warning : Failed to load texture ==> wjzchqb04.bmp (on model: HotDance\Common\object\31411\40138)
+01:40:54:694:  	Warning : Failed to load texture ==> Box50LightingMap.bmp (on model: HotDance\Common\object\31411\40138)
+01:40:54:695:  	Warning : Failed to load texture ==> wjzchqb04.bmp (on model: HotDance\Common\object\31411\40138)
+01:40:54:695:  	Warning : Failed to load texture ==> Box50LightingMap.bmp (on model: HotDance\Common\object\31411\40138)
+01:40:54:696:  	Warning : Failed to load texture ==> wjzchqb04.bmp (on model: HotDance\Common\object\31411\40138)
+01:40:54:696:  	Warning : Failed to load texture ==> Box50LightingMap.bmp (on model: HotDance\Common\object\31411\40138)
+01:41:11:587:  	Successful to create font [LABATEXT5]
+02:19:57:260:  	Warning : Failed to load texture ==> 2801061L.dds (on model: HotDance\Common\object\actress\28-29shoes\2801061_lod1)
+02:19:57:261:  	Warning : Failed to load texture ==> 2801061L.dds (on model: HotDance\Common\object\actress\28-29shoes\2801061H_lod1)
+02:19:57:265:  	Warning : Failed to load texture ==> 4701107F.dds (on model: HotDance\Common\object\actress\47wrist\4701107)
+02:20:02:463:  	Warning : Failed to load texture ==> 2801061L.dds (on model: HotDance\Common\object\actress\28-29shoes\2801061_lod1)
+02:20:02:464:  	Warning : Failed to load texture ==> 2801061L.dds (on model: HotDance\Common\object\actress\28-29shoes\2801061H_lod1)
+02:20:02:465:  	Warning : Failed to load texture ==> 4701107F.dds (on model: HotDance\Common\object\actress\47wrist\4701107)
+02:20:36:467:  	Warning : Failed to load texture ==> box_07LightingMap.dds.box_07 (on model: HotDance\30111\dancehall)
+02:20:37:846:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+02:20:38:028:  	(DX8Render)Warning : Can't create texture with null name
+02:20:40:686:  	Warning : Failed to load texture ==> box_07LightingMap.dds.box_07 (on model: HotDance\30111\dancehall)
+02:20:41:870:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+02:20:41:913:  	(DX8Render)Warning : Can't create texture with null name
+02:24:17:836:  	Warning : Failed to load texture ==> HotDance\Common\object\actor\11head\0\2293_01L.dds (on model: HotDance\Common\object\actor\11head\2293)
+02:24:42:810:  	Warning : Failed to load texture ==> HotDance\Common\object\actor\11head\0\2293_01L.dds (on model: HotDance\Common\object\actor\11head\2293)
+02:35:06:750:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+02:35:06:833:  	Warning : Failed to load texture ==> box_07LightingMap.dds.box_07 (on model: HotDance\30111\dancehall)
+02:35:07:878:  	[WARNING]:SceneBkMusicManager::RandomPlayMusic ==> Unkown Type 7!
+02:35:07:940:  	(DX8Render)Warning : Can't create texture with null name
+02:55:15:523:  	Warning : Can't create Draw ==> CardAnimation0
+03:07:19:093:  	Warning : Can't find the acitive effect ==> 5jq_yun16
+03:07:19:152:  	Warning : Can't find the acitive effect ==> 5jq_yun16
+03:07:22:101:  	Warning : Can't find the acitive effect ==> 5jq_yun16
+03:07:22:328:  	Warning : Can't find the acitive effect ==> 5jq_yun16
+06:45:45:543:  	Warning : Can't create Draw ==> CardAnimation0
+06:45:45:589:  	Warning : Can't create Draw ==> CardAnimation0
+06:45:45:834:  	Warning : Can't create Draw ==> CardAnimation0
+06:45:56:069:  	Warning : Can't create Draw ==> CardAnimation0
+06:45:56:377:  	Warning : Can't create Draw ==> CardAnimation0
+07:07:56:018:  	>>>NewTaskError 2>>>0>>>1>>>0
